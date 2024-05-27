@@ -41,4 +41,4 @@ try:
     except:
         pass
 except:
-    print("Usage:python3 main.py <target_file> <wordlist>")
+    print("Usage:python3 blackunzipper.py <target_file> <wordlist>")
